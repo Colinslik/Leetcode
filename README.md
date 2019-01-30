@@ -1,7 +1,7 @@
 ## Array
 |  #  | Title | Solution | Difficulty | Locked |
 | --- | ----- | -------- | ---------- | ------ |
-|624| [Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays/description/) | [Python](./array/624.py) | _O(n)_| _O(1)_ |
+|624| [Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays/description/) | [Python](./array/624.py) | _O(n)_|🔒|
 
 ## Hash Table
 |  #  | Title | Solution | Difficulty | Locked |
