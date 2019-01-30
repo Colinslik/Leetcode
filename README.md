@@ -226,16 +226,16 @@
 |979|[Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/)||Medium||
 |978|[Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/)||Medium||
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)||Easy||
+|976|[Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)|Easy||
+|975|[Odd Even Jump](https://leetcode.com/problems/odd-even-jump/)||Hard||
+|974|[Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/)||Medium||
+|973)|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/||Easy||
+|972)|[Equal Rational Numbers](https://leetcode.com/problems/equal-rational-numbers/||Hard||
+|971|[Flip Binary Tree To Match Preorder Traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/)||Medium||
+|970|[Powerful Integers](https://leetcode.com/problems/powerful-integers/)||Easy||
 
-|[976](https://leetcode.com/problems/largest-perimeter-triangle/)| * Largest Perimeter Triangle|55%|Easy||
-|[975](https://leetcode.com/problems/odd-even-jump/)| * Odd Even Jump|50%|Hard||
-|[974](https://leetcode.com/problems/subarray-sums-divisible-by-k/)| * Subarray Sums Divisible by K|38%|Medium||
-|[973](https://leetcode.com/problems/k-closest-points-to-origin/)| * K Closest Points to Origin|67%|Easy||
-|[972](https://leetcode.com/problems/equal-rational-numbers/)| * Equal Rational Numbers|39%|Hard||
-|[971](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/)| * Flip Binary Tree To Match Preorder Traversal|41%|Medium||
-|[970](https://leetcode.com/problems/powerful-integers/)| * Powerful Integers|38%|Easy||
-|[969](https://leetcode.com/problems/pancake-sorting/)| * Pancake Sorting|62%|Medium||
-|[968](https://leetcode.com/problems/binary-tree-cameras/)| * Binary Tree Cameras|33%|Hard||
+|969|[Pancake Sorting](https://leetcode.com/problems/pancake-sorting/)||Medium||
+|968|[Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/)||Hard||
 |[967](https://leetcode.com/problems/numbers-with-same-consecutive-differences/)| * Numbers With Same Consecutive Differences|35%|Medium||
 |[966](https://leetcode.com/problems/vowel-spellchecker/)| * Vowel Spellchecker|37%|Medium||
 |[965](https://leetcode.com/problems/univalued-binary-tree/)| * Univalued Binary Tree|69%|Easy||
@@ -982,38 +982,37 @@
 |[2](https://leetcode.com/problems/add-two-numbers/)|[Add Two Numbers](./Algorithms/0002.add-two-numbers)|30%|Medium||
 |[1](https://leetcode.com/problems/two-sum/)|[Two Sum](./Algorithms/0001.two-sum)|39%|Easy||
 
-以下免费的算法题，暂时不能提交 Go 解答
 
-- [116.Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
-- [117.Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)
-- [133.Clone Graph](https://leetcode.com/problems/clone-graph/)
-- [138.Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)
-- [141.Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
-- [142.Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
-- [151.Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
-- [160.Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
-- [173.Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)
-- [190.Reverse Bits](https://leetcode.com/problems/reverse-bits/)
-- [191.Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
-- [222.Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)
-- [235.Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
-- [236.Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
-- [237.Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)
-- [278.First Bad Version](https://leetcode.com/problems/first-bad-version/)
-- [284.Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)
-- [297.Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
-- [341.Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)
-- [374.Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)
-- [386.Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/)
-- [426.Convert Binary Search Tree to Sorted Doubly Linked List](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/)
-- [427.Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/)
-- [429.N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)
-- [430.Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)
-- [449.Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/)
-- [535.Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/)
-- [558.Quad Tree Intersection](https://leetcode.com/problems/quad-tree-intersection/)
-- [559.Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)
-- [589.N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)
-- [590.N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)
-- [690.Employee Importance](https://leetcode.com/problems/employee-importance/)
-- [708.Insert into a Cyclic Sorted List](https://leetcode.com/problems/insert-into-a-cyclic-sorted-list/)
+116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
+117|[Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)
+133|[Clone Graph](https://leetcode.com/problems/clone-graph/)
+138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)
+141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
+142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
+151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
+160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
+173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)
+190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)
+191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
+222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)
+235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
+236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
+237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)
+278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)
+284|[Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)
+297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
+341|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)
+374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)
+386|[Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/)
+426|[Convert Binary Search Tree to Sorted Doubly Linked List](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/)
+427|[Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/)
+429|[N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)
+430|[Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)
+449|[Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/)
+535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/)
+558|[Quad Tree Intersection](https://leetcode.com/problems/quad-tree-intersection/)
+559|[Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)
+589|[N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)
+590|[N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)
+690|[Employee Importance](https://leetcode.com/problems/employee-importance/)
+708|[Insert into a Cyclic Sorted List](https://leetcode.com/problems/insert-into-a-cyclic-sorted-list/)
