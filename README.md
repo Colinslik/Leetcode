@@ -1,7 +1,7 @@
 ## Array
 |  #  | Title | Solution | Difficulty | Locked |
 | --- | ----- | -------- | ---------- | ------ |
-|624| [Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays/description/) | [Python](./array/624.py) | _O(n)_|🔒|
+|624| [Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays/description/) | [Python](./array/624.py) | _O(n)_| 🔒|
 
 ## Hash Table
 |  #  | Title | Solution | Difficulty | Locked |
@@ -219,26 +219,10 @@
 | --- | ----- | -------- | ---------- | ------ |
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [Python](./linkedlist/MergeTwoSortedLists.py) | _O(n)_| _O(n)_ ||
 
-# [LeetCode](https://leetcode.com) 的 Go 解答
 
-[![LeetCode 排名](https://img.shields.io/badge/aQuaYi-945-blue.svg)](https://leetcode.com/aQuaYi/)
-[![codecov](https://codecov.io/gh/aQuaYi/LeetCode-in-Go/branch/master/graph/badge.svg)](https://codecov.io/gh/aQuaYi/LeetCode-in-Go)
-[![Build Status](https://www.travis-ci.org/aQuaYi/LeetCode-in-Go.svg?branch=master)](https://www.travis-ci.org/aQuaYi/LeetCode-in-Go)
-
-## 进度
-
-> 统计规则：1.免费题，2.算法题，3.能提交 Go 解答
-
-|     |Easy|Medium|Hard|Total|
-|:---:|:---:|:---:|:---:|:---:|
-|**Accepted**|208|347|155|710|
-|**Total**|220|373|165|758|
-
-## 题解
-
-|题号|题目|通过率|难度|收藏|
-|:-:|:-|:-: | :-: | :-: |
-|[980](https://leetcode.com/problems/unique-paths-iii/)| * Unique Paths III :new: |72%|Hard||
+|  #  | Title | Solution | Difficulty | Locked |
+| --- | ----- | -------- | ---------- | ------ |
+|980|[Unique Paths III](https://leetcode.com/problems/unique-paths-iii/)||Hard| 🔒|
 |[979](https://leetcode.com/problems/distribute-coins-in-binary-tree/)| * Distribute Coins in Binary Tree :new: |65%|Medium||
 |[978](https://leetcode.com/problems/longest-turbulent-subarray/)| * Longest Turbulent Subarray|46%|Medium||
 |[977](https://leetcode.com/problems/squares-of-a-sorted-array/)| * Squares of a Sorted Array|76%|Easy||
