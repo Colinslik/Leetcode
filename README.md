@@ -222,10 +222,10 @@
 
 |  #  | Title | Solution | Difficulty | Locked |
 | --- | ----- | -------- | ---------- | ------ |
-|980|[Unique Paths III](https://leetcode.com/problems/unique-paths-iii/)||Hard| 🔒|
-|[979](https://leetcode.com/problems/distribute-coins-in-binary-tree/)| * Distribute Coins in Binary Tree :new: |65%|Medium||
-|[978](https://leetcode.com/problems/longest-turbulent-subarray/)| * Longest Turbulent Subarray|46%|Medium||
-|[977](https://leetcode.com/problems/squares-of-a-sorted-array/)| * Squares of a Sorted Array|76%|Easy||
+|980|[Unique Paths III](https://leetcode.com/problems/unique-paths-iii/)||Hard|🔒|
+[979|[Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/)||Medium||
+|978|[Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/)||Medium||
+|977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)||Easy||
 |[976](https://leetcode.com/problems/largest-perimeter-triangle/)| * Largest Perimeter Triangle|55%|Easy||
 |[975](https://leetcode.com/problems/odd-even-jump/)| * Odd Even Jump|50%|Hard||
 |[974](https://leetcode.com/problems/subarray-sums-divisible-by-k/)| * Subarray Sums Divisible by K|38%|Medium||
