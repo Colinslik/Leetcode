@@ -24,7 +24,7 @@
 |22|[generate-parentheses](https://leetcode.com/problems/generate-parentheses)||[:memo:](https://leetcode.com/articles/generate-parentheses/)|Medium|
 |23|[merge-k-sorted-lists](https://leetcode.com/problems/merge-k-sorted-lists)||[:memo:](https://leetcode.com/articles/merge-k-sorted-list/)|Hard|
 |24|[swap-nodes-in-pairs](https://leetcode.com/problems/swap-nodes-in-pairs)|||Medium|
-|25|[reverse-nodes-in-k-group](https://leetcode.com/problems/reverse-nodes-in-k-group)||Hard|
+|25|[reverse-nodes-in-k-group](https://leetcode.com/problems/reverse-nodes-in-k-group)|||Hard|
 |26|[remove-duplicates-from-sorted-array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)|[C](https://github.com/Colinslik/Leetcode/blob/master/026.%20remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.c)|[:memo:](https://leetcode.com/articles/remove-duplicates-from-sorted-array/)|Easy|
 |27|[remove-element](https://leetcode.com/problems/remove-element)|[C](https://github.com/Colinslik/Leetcode/blob/master/027.%20remove-element/remove-element.c)|[:memo:](https://leetcode.com/articles/remove-element/)|Easy|
 |28|[implement-strstr](https://leetcode.com/problems/implement-strstr)|||Easy|
@@ -92,7 +92,7 @@
 |90|[subsets-ii](https://leetcode.com/problems/subsets-ii)|||Medium|
 |91|[decode-ways](https://leetcode.com/problems/decode-ways)|||Medium|
 |92|[reverse-linked-list-ii](https://leetcode.com/problems/reverse-linked-list-ii)|||Medium|
-|93|[restore-ip-addresses](https://leetcode.com/problems/restore-ip-addresses)||Medium|
+|93|[restore-ip-addresses](https://leetcode.com/problems/restore-ip-addresses)|||Medium|
 |94|[binary-tree-inorder-traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)||[:memo:](https://leetcode.com/articles/binary-tree-inorder-traversal/)|Medium|
 |95|[unique-binary-search-trees-ii](https://leetcode.com/problems/unique-binary-search-trees-ii)||[:memo:](https://leetcode.com/articles/unique-binary-search-trees-ii/)|Medium|
 |96|[unique-binary-search-trees](https://leetcode.com/problems/unique-binary-search-trees)||[:memo:](https://leetcode.com/articles/unique-binary-search-trees/)|Medium|
@@ -117,7 +117,7 @@
 |115|[distinct-subsequences](https://leetcode.com/problems/distinct-subsequences)|||Hard|
 |116|[populating-next-right-pointers-in-each-node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node)|||Medium|
 |117|[populating-next-right-pointers-in-each-node-ii](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii)|||Medium|
-|118|[pascals-triangle](https://leetcode.com/problems/pascals-triangle)|[:memo:](https://leetcode.com/articles/pascals-triangle/)|Easy|
+|118|[pascals-triangle](https://leetcode.com/problems/pascals-triangle)||[:memo:](https://leetcode.com/articles/pascals-triangle/)|Easy|
 |119|[pascals-triangle-ii](https://leetcode.com/problems/pascals-triangle-ii)|||Easy|
 |120|[triangle](https://leetcode.com/problems/triangle)|||Medium|
 |121|[best-time-to-buy-and-sell-stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)||[:memo:](https://leetcode.com/articles/best-time-to-buy-and-sell-stock/)|Easy|
