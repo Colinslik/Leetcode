@@ -47,7 +47,7 @@
 |45|[jump-game-ii](https://leetcode.com/problems/jump-game-ii)|||Hard|
 |46|[permutations](https://leetcode.com/problems/permutations)|||Medium|
 |47|[permutations-ii](https://leetcode.com/problems/permutations-ii)|||Medium|
-|48|[rotate-image](https://leetcode.com/problems/rotate-image)||[:memo:](https://leetcode.com/articles/rotate-image/)|Medium|
+|48|[rotate-image](https://leetcode.com/problems/rotate-image)|[C](https://github.com/Colinslik/Leetcode/blob/master/048.%20rotate-image/rotate-image.c)|[:memo:](https://leetcode.com/articles/rotate-image/)|Medium|
 |49|[group-anagrams](https://leetcode.com/problems/group-anagrams)||[:memo:](https://leetcode.com/articles/group-anagrams/)|Medium|
 |50|[powx-n](https://leetcode.com/problems/powx-n)||[:memo:](https://leetcode.com/articles/powx-n/)|Medium|
 |51|[n-queens](https://leetcode.com/problems/n-queens)|||Hard|
@@ -69,7 +69,7 @@
 |67|[add-binary](https://leetcode.com/problems/add-binary)|||Easy|
 |68|[text-justification](https://leetcode.com/problems/text-justification)|||Hard|
 |69|[sqrtx](https://leetcode.com/problems/sqrtx)|||Easy|
-|70|[climbing-stairs](https://leetcode.com/problems/climbing-stairs)||[:memo:](https://leetcode.com/articles/climbing-stairs/)|Easy|
+|70|[climbing-stairs](https://leetcode.com/problems/climbing-stairs)|[C](https://github.com/Colinslik/Leetcode/blob/master/070.%20climbing-stairs/climbing-stairs.c)|[:memo:](https://leetcode.com/articles/climbing-stairs/)|Easy|
 |71|[simplify-path](https://leetcode.com/problems/simplify-path)|||Medium|
 |72|[edit-distance](https://leetcode.com/problems/edit-distance)||[:memo:](https://leetcode.com/articles/edit-distance/)|Hard|
 |73|[set-matrix-zeroes](https://leetcode.com/problems/set-matrix-zeroes)||[:memo:](https://leetcode.com/articles/set-matrix-zeroes/)|Medium|
@@ -82,7 +82,7 @@
 |80|[remove-duplicates-from-sorted-array-ii](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii)|||Medium|
 |81|[search-in-rotated-sorted-array-ii](https://leetcode.com/problems/search-in-rotated-sorted-array-ii)|||Medium|
 |82|[remove-duplicates-from-sorted-list-ii](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii)|||Medium|
-|83|[remove-duplicates-from-sorted-list](https://leetcode.com/problems/remove-duplicates-from-sorted-list)||[:memo:](https://leetcode.com/articles/remove-duplicates-from-sorted-list/)|Easy|
+|83|[remove-duplicates-from-sorted-list](https://leetcode.com/problems/remove-duplicates-from-sorted-list)|[C](https://github.com/Colinslik/Leetcode/blob/master/083.%20remove-duplicates-from-sorted-list/remove-duplicates-from-sorted-list.c)|[:memo:](https://leetcode.com/articles/remove-duplicates-from-sorted-list/)|Easy|
 |84|[largest-rectangle-in-histogram](https://leetcode.com/problems/largest-rectangle-in-histogram)||[:memo:](https://leetcode.com/articles/largest-rectangle-in-histogram/)|Hard|
 |85|[maximal-rectangle](https://leetcode.com/problems/maximal-rectangle)|||Hard|
 |86|[partition-list](https://leetcode.com/problems/partition-list)|||Medium|
@@ -99,11 +99,12 @@
 |97|[interleaving-string](https://leetcode.com/problems/interleaving-string)||[:memo:](https://leetcode.com/articles/interleaving-strings/)|Hard|
 |98|[validate-binary-search-tree](https://leetcode.com/problems/validate-binary-search-tree)||[:memo:](https://leetcode.com/articles/validate-binary-search-tree/)|Medium|
 |99|[recover-binary-search-tree](https://leetcode.com/problems/recover-binary-search-tree)|||Hard|
-|100|[same-tree](https://leetcode.com/problems/same-tree)|||Easy|
-|101|[symmetric-tree](https://leetcode.com/problems/symmetric-tree)||[:memo:](https://leetcode.com/articles/symmetric-tree/)|Easy|
+|100|[same-tree](https://leetcode.com/problems/same-tree)|[C](https://github.com/Colinslik/Leetcode/blob/master/100.%20same-tree/same-tree.c)||Easy|
+|101|[symmetric-tree](https://leetcode.com/problems/symmetric-tree)|[C](https://github.com/Colinslik/Leetcode/blob/master/101.%20symmetric-tree/symmetric-tree.c)|[:memo:](https://leetcode.com/articles/symmetric-tree/)|Easy|
 |102|[binary-tree-level-order-traversal](https://leetcode.com/problems/binary-tree-level-order-traversal)|||Medium|
 |103|[binary-tree-zigzag-level-order-traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal)|||Medium|
-|104|[maximum-depth-of-binary-tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)||[:memo:](https://leetcode.com/articles/maximum-depth-of-binary-tree/)|Easy|
+|105|[construct-binary-tree-from-preorder-and-inorder-traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)||[:memo:](https://leetcode.com/articles/construct-binary-tree-from-preorder-and-inorder-tr/)|Medium|
+|104|[maximum-depth-of-binary-tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)|[C]()|[:memo:](https://leetcode.com/articles/maximum-depth-of-binary-tree/)|Easy|
 |105|[construct-binary-tree-from-preorder-and-inorder-traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)||[:memo:](https://leetcode.com/articles/construct-binary-tree-from-preorder-and-inorder-tr/)|Medium|
 |106|[construct-binary-tree-from-inorder-and-postorder-traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal)|||Medium|
 |107|[binary-tree-level-order-traversal-ii](https://leetcode.com/problems/binary-tree-level-order-traversal-ii)|||Easy|
