@@ -7,7 +7,7 @@
 |5|[longest-palindromic-substring](https://leetcode.com/problems/longest-palindromic-substring)||[:memo:](https://leetcode.com/articles/longest-palindromic-substring/)|Medium|
 |6|[zigzag-conversion](https://leetcode.com/problems/zigzag-conversion)||[:memo:](https://leetcode.com/articles/zigzag-conversion/)|Medium|
 |7|[reverse-integer](https://leetcode.com/problems/reverse-integer)|[Java](https://github.com/Colinslik/Leetcode/blob/master/007.%20reverse-integer/reverse-integer.java)|[:memo:](https://leetcode.com/articles/reverse-integer/)|Easy|
-|8|[string-to-integer-atoi](https://leetcode.com/problems/string-to-integer-atoi)|||Medium|
+|8|[string-to-integer-atoi](https://leetcode.com/problems/string-to-integer-atoi)|[C++](https://github.com/Colinslik/Leetcode/blob/master/008.%20string-to-integer-atoi/string-to-integer-atoi.cpp)||Medium|
 |9|[palindrome-number](https://leetcode.com/problems/palindrome-number)|[C](https://github.com/Colinslik/Leetcode/blob/master/009.%20palindrome-number/palindrome-number.c)|[:memo:](https://leetcode.com/articles/palindrome-number/)|Easy|
 |10|[regular-expression-matching](https://leetcode.com/problems/regular-expression-matching)||[:memo:](https://leetcode.com/articles/regular-expression-matching/)|Hard|
 |11|[container-with-most-water](https://leetcode.com/problems/container-with-most-water)||[:memo:](https://leetcode.com/articles/container-with-most-water/)|Medium|
